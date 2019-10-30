@@ -21,7 +21,7 @@ Because when a console session ends, any changes made to the environment variabl
 In order to retain the changes, they must be made outside of `cmd`.
 
 One option for setting them is:
-1. Press <kbd>Win</kbd>+<kbd>R<kbd> to bring up the 'Run' prompt.
+1. Press <kbd>Win</kbd>+<kbd>R</kbd> to bring up the 'Run' prompt.
 2. Type `SystemPropertiesAdvanced` or `SystemPropertiesAdvanced.exe` to access the Advanced tab of System Properties
 3. Click `Environment Variables...`
 
