@@ -2,14 +2,16 @@
 
 ## Contents
 
-* [Batch Scripting](#Batch_Scripting)
-   * [How do I split a string?](#How_do_I_split_a_string?)
-* [Environment Variables](#Environment_Variables)
-  * [Why won't my changes to `%PATH%`/`%PATHEXT%` save properly?](Why_won't_my_changes_to_`%PATH%`/`%PATHEXT%`_save_properly?)
+* [Batch Scripting](#batch-scripting)
+   * [How do I split a string?](#how-do-i-split-a-string)
+* [Environment Variables](#environment-variables)
+  * [Why won't my changes to `%PATH%`/`%PATHEXT%` save properly?](#why-wont-my-changes-to-pathpathext-save-properly)
 
 ## Batch Scripting
 
 ### How do I split a string?
+
+To be added...
 
 ## Environment Variables
 
